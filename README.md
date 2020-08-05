@@ -4,7 +4,8 @@ THIS IS THE ONLY FRONT END DESIGN OF YOUTUBE CLONE .
 
 ## Available Scripts
 
-first you need to donwnload NODE JS.
+First you need to donwnload NODE JS.
+Clone the repo.
 
 `npm install`
 
